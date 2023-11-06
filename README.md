@@ -18,18 +18,14 @@ This GitHub profile is organized as follows:
   used in the recent past.
 * In [dev.to/](https://github.com/yxm-dev/dev.to) you will find the `.md` files to the columns that I write in
   my dev.to [profile](https://dev.to/yxm).
-* [collab/](https://github.com/yxm-dev/collab) is a space where I will share some of my experience with
-  programming, `Linux` and `DevOps` tools, in the form of precise definitions and lists of questions and
-  answers. The idea is to create a collaborative space, so feel free to contribute as well.
-  
+
 More information about me can be found in my website [yxmartins.me](https://yxmartins.me), which was made
 with [sw.sh](https://github.com/yxm-dev/sw.sh): a simple static website creator that I developed using
 [pandoc](https://github.com/jgm/pandoc).
 
 See also my [dev.to](https://dev.to/yxm) and [linkedin](https://linkedin.com/in/yxmartins) profiles.
 
-I like open source projects and I'm open to collaborate (for example, see the
-[collab](https://github.com/yxm-dev/collab) project). My contact is [yxm.dev@gmx.ie](mailto:yxm.dev@gmx.ie).
+I like open source projects and I'm open to collaborations. My contact is [yxm.dev@gmx.ie](mailto:yxm.dev@gmx.ie).
 
 
 
