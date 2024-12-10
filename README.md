@@ -6,7 +6,7 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 
 See also:
 
-* [yx.dev.br](https://yx.dev.br)
+* [website](https://yx.dev.br)
 * [arxiv](https://arxiv.org/a/martins_y_1.html)
 * [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins&submit=) 
 
