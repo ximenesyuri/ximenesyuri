@@ -4,14 +4,14 @@ My name is Yuri Ximenes Martins (`Yuri Ximenes` or just `yx`, for short). I'm a 
 
 As a researcher I have been working in the interplay between Mathematics, Computer Science, Physics and Philosophy, mainly in topics related to abstraction processes, with an emphasis in categorical aspects. As a developer, I'm a devote of shell scripts and of functional programming. I also an active Linux user and a Vim lover.
 
-Currently I'm working as a Software Developer at __Magalu Cloud__ (https://magalu.cloud).
+Currently I'm working as a Software Developer at Magalu Cloud (https://magalu.cloud).
 
 See also:
-- __website__: (https://yx.dev.br)
-- __arxiv__:   (https://arxiv.org/a/martins_y_1.html)
-- __HAL__:     (https://hal.science/search/index/?q=yuri-ximenes-martins)
+- [website](https://yx.dev.br)
+- [arxiv](https://arxiv.org/a/martins_y_1.html)
+- [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins)
 
-
+```bash
                   -`                     ________ ++     ________           
                  .o+`                   /VVVVVVVV\++++  /VVVVVVVV\          
                 `ooo/                   \VVVVVVVV/++++++\VVVVVVVV/          
@@ -31,3 +31,4 @@ See also:
 `+sso+:-`                 `.-/+oso:                                         
 `++:.                           `-/+/
 .`                                 `
+```
