@@ -10,7 +10,8 @@ See also:
 * [arxiv](https://arxiv.org/a/martins_y_1.html)
 * [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins&submit=)
 * [f-utils](https://github.com/f-utils)
-
+  
+```
                    -`                     ________ ++     ________
                   .o+`                   /VVVVVVVV\++++  /VVVVVVVV\
                  `ooo/                   \VVVVVVVV/++++++\VVVVVVVV/
@@ -30,3 +31,4 @@ See also:
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `
+```
