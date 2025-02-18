@@ -10,3 +10,19 @@ See also:
 - [website](https://yx.dev.br)
 - [arxiv](https://arxiv.org/a/martins_y_1.html)
 - [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins)
+
+```python
++----------------------------------------------------------+
+|  linux           category theory           axiomatics    |
+|                                                          |
+|    mathematics     functional programming                |
+|                                          homotopy theory |
+|   type theory        +-----------+                       |
+|                      |abstraction|       foundations     |
+|       programming    +-----------+                       |
+|                                              teaching    |
+| formalism     philosophy  homotopy theory       learning |
+|                                                          |
+|     shell scripting               computer science       |
++----------------------------------------------------------+
+```
