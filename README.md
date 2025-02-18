@@ -11,4 +11,22 @@ See also:
 * [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins&submit=)
 * [f-utils](https://github.com/f-utils)
 
-
+                   -`                     ________ ++     ________
+                  .o+`                   /VVVVVVVV\++++  /VVVVVVVV\
+                 `ooo/                   \VVVVVVVV/++++++\VVVVVVVV/
+                `+oooo:                   \VVVVVV/++++++++/VVVVV/'
+               `+oooooo:                   \VVVVVV|++++++/VVVVV/'
+               -+oooooo+:                  +|VVVVVV|++++/VVVVV/'+
+             `/:-:++oooo+:               +++|VVVVVV|++/VVVVV/'+++++
+            `/++++/+++++++:            +++++|VVVVVV|/VVVVV/'+++++++++
+           `/++++++++++++++:             +++|VVVVVVVVVVV/'+++++++++
+          `/+++ooooooooooooo/`             +|VVVVVVVVV/'+++++++++
+         ./ooosssso++osssssso+`             |VVVVVVV/'+++++++++
+        .oossssso-````/ossssss+`            |VVVVV/'+++++++++
+       -osssssso.      :ssssssso.           |VVV/'+++++++++
+      :osssssss/        osssso+++.          'V/'   ++++++
+     /ossssssss/        +ssssooo/-                  ++
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `
