@@ -16,8 +16,8 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 |                      | abstraction |       foundations   |    |     arxiv: https://arxiv.org/a/martins_y_1.html                     |  
 |       programming    +-------------+                     |    |       HAL: https://hal.science/search/index/?q=yuri-ximenes-martins |  
 |                                              teaching    |    |                                                                     |   
-| formalism     philosophy  homotopy theory       learning |    +---------------------------------------------------------------------+  
-|                                                          |
+| formalism     philosophy          logic       learning   |    +---------------------------------------------------------------------+  
+|                           vim                            |
 |     shell scripting               computer science       |
 +----------------------------------------------------------+
 ```
