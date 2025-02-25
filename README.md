@@ -9,14 +9,14 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 ```rst
 +----------------------------------------------------------+  
 |  linux           category theory           axiomatics    |  
-|                                                          |    +---------------------------------------------------------------------+
-|    mathematics     functional programming                |    |  See also:                                                          |
-|                                          homotopy theory |    |                                                                     |
-|   type theory        +-------------+                     |    |   website: https://yx.dev.br                                        |
-|                      | abstraction |       foundations   |    |     arxiv: https://arxiv.org/a/martins_y_1.html                     |
-|       programming    +-------------+                     |    |       HAL: https://hal.science/search/index/?q=yuri-ximenes-martins |
-|                                              teaching    |    |                                                                     |
-| formalism     philosophy  homotopy theory       learning |    +---------------------------------------------------------------------+
+|                                                          |    +---------------------------------------------------------------------+  
+|    mathematics     functional programming                |    |  See also:                                                          |  
+|                                          homotopy theory |    |                                                                     |  
+|   type theory        +-------------+                     |    |   website: https://yx.dev.br                                        |  
+|                      | abstraction |       foundations   |    |     arxiv: https://arxiv.org/a/martins_y_1.html                     |  
+|       programming    +-------------+                     |    |       HAL: https://hal.science/search/index/?q=yuri-ximenes-martins |  
+|                                              teaching    |    |                                                                     |   
+| formalism     philosophy  homotopy theory       learning |    +---------------------------------------------------------------------+  
 |                                                          |
 |     shell scripting               computer science       |
 +----------------------------------------------------------+
