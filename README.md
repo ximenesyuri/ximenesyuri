@@ -21,3 +21,7 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 |     shell scripting               computer science       |
 +----------------------------------------------------------+
 ```
+
+Github organizations that I maintain:
+1. [pythonalta](https://github.com/pythonalta): with diverse libs in `python`
+2. [f-utils](https://github.com/f-utils): with a `python` framework aiming to provide type safety and universal constructions
