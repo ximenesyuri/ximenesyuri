@@ -8,20 +8,21 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 
 ```rst
 +----------------------------------------------------------+  
-|  linux           category theory           axiomatics    |  
-|                                                          |    +---------------------------------------------------------------------+  
-|    mathematics     functional programming                |    |  See also:                                                          |  
-|                                          homotopy theory |    |                                                                     |  
-|   type theory        +-------------+                     |    |   website: https://ximenesyuri.com                                  |  
-|                      | abstraction |       foundations   |    |     arxiv: https://arxiv.org/a/martins_y_1.html                     |  
-|       programming    +-------------+                     |    |       HAL: https://hal.science/search/index/?q=yuri-ximenes-martins |  
-|                                              teaching    |    |                                                                     |   
-| formalism     philosophy          logic       learning   |    +---------------------------------------------------------------------+  
+|  linux           category theory           axiomatics    | 
+|                                                          |  
+|    mathematics     functional programming                |  
+|                                          homotopy theory | 
+|   type theory        +-------------+                     |  
+|                      | abstraction |       foundations   |  
+|       programming    +-------------+                     |  
+|                                              teaching    |   
+| formalism     philosophy          logic       learning   |  
 |                           vim                            |
 |     shell scripting               computer science       |
 +----------------------------------------------------------+
 ```
 
-Github organizations that I maintain:
-1. [pythonalta](https://github.com/pythonalta): with diverse libs in `python`
-2. [f-utils](https://github.com/f-utils): with a `python` framework aiming to provide type safety and universal constructions
+See also:
+- website: https://ximenesyuri.com
+- arxiv: https://arxiv.org/a/martins_y_1.html
+- HAL: https://hal.science/search/index/?q=yuri-ximenes-martins
