@@ -23,6 +23,6 @@ Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.c
 ```
 
 See also:
-- website: https://ximenesyuri.com
-- arxiv: https://arxiv.org/a/martins_y_1.html
-- HAL: https://hal.science/search/index/?q=yuri-ximenes-martins
+- [ximenesyuri.com](https://ximenesyuri.com)
+- [arxiv](https://arxiv.org/a/martins_y_1.html)
+- [HAL](https://hal.science/search/index/?q=yuri-ximenes-martins)
