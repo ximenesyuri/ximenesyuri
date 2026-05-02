@@ -5,7 +5,8 @@ My name is Yuri Ximenes Lecca (`Yuri Ximenes Martins`, `Yuri Ximenes`, `ximenesy
 As a researcher I have been working in the interplay between Mathematics, Computer Science, Physics and Philosophy, mainly in topics related to abstraction processes, with an emphasis in categorical aspects. As a developer, I'm a devote of shell scripting and of functional programming. I'm also an active Linux user and a `Vim` lover.
 
 - Currently I'm working as a Software Developer at [Magalu Cloud](https://magalu.cloud).
-- I'm the maintainer of [typedsystem](https://github.com/typedsystem) organization containing the `typed` ecossystem.
+- Maintainer of [typedsystem](https://github.com/typedsystem) organization containing the `typed` ecossystem.
+- Maintainer of [omnishell](https://github.com/omnishell) organization with the `omni` shell framework.
 
 ```rst
 +----------------------------------------------------------+  
