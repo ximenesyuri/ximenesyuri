@@ -6,7 +6,7 @@ As a researcher I have been working in the interplay between Mathematics, Comput
 
 - Software Developer at [Magalu Cloud](https://magalu.cloud)
 - Lead at [lemma group](https://lemmagrp.com)
-- Maintainer of the projects [typeds ystem](https://typedsystem.com) and [omnis shell](https://github.com/omnishell)
+- Maintainer of the projects [typeds ystem](https://typedsystem.com) and [omni shell](https://github.com/omnishell)
 
 ```rst
 +----------------------------------------------------------+  
